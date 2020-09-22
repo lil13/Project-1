@@ -1,0 +1,31 @@
+#hi {
+  color: white;
+  text-align: center;
+}
+#tell {
+  background-color: brown;
+  color: plum;
+  text-align: center;
+}
+#inform {
+  background-color: darkblue;
+  color: whitesmoke;
+}
+#i1 {
+  color: rgb(0, 23, 128);
+}
+#i11 {
+  background-color: plum ;
+  color: purple;
+}
+#i2 {
+  color: purple;
+}
+#i22 {
+  background-color: plum;
+  color: purple;
+}
+#bye {
+  color: green;
+  text-align: center;
+}
